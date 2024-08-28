@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<title>BBC home</title>
+<style>
+li:hover{background-color:grey;color:white;}
+</style>
+</head>
+<body>
+<nav class='navbar' style='margin-right:25px;'>
+<div style='overflow:hidden;position:fixed;background-color:white;top:0px;'>
+<div class='d-flex'>
+<div class='d-flex' style='gap:10px;margin-top:15px;margin-left:15px;'>
+<div><img src='assets/images/menu-svgrepo-com.svg' width='35px'/></div>
+<div><img src='assets/images/search-alt-svgrepo-com.svg' width='35px'/></div>
+</div>
+<div style='margin-left:600px;margin-top:5px;'>
+<div><img src='assets/images/title.png' width='100px'/></div>
+</div>
+<div style='margin-left:580px;margin-top:15px;'>
+<button style='color:white;background-color:black;'>Register</button>
+<button style='margin-right:3px;'>Sign In</button>
+</div>
+</div>
+<hr>
+<div>
+<ul style='list-style-type:none;display:inline-flex;gap:25px;margin-left:400px;'>
+<li><b><u>Home</u></b></li>
+<li><b>News</b></li>
+<li><b>Sport</b></li>
+<li><b>Business</b></li>
+<li><b>Innovation</b></li>
+<li><b>Cultre</b></li>
+<li><b>Travel</b></li>
+<li><b>Earth</b></li>
+<li><b>Vedio</b></li>
+<li><b>live</b></li>
+</ul>
+</div>
+</div>
+</nav> 
+
+<div class='row' style='margin:125px 25px;'>
+<div class='col-3'>
+<div>
+<img src='assets/images/trump.webp' width='325px'/>
+<h4>Biden blames jetlag and travel for the poor debate performance</h4>
+<h6>“I’m bemused and somewhat disappointed about all the media and political responses that seem to say – a man who’s spent a lifetime as a successful political leader has proven otherwise by one bad debate, a debate that he</h6>
+<p>5 Hrs ago - US & Canada</p>
+</div>
+<hr>
+<div>
+<img src='assets/images/gaza.webp'width='325px'/>
+<h4>Ex-Officials says gaza policy put US in risk</h4>
+<h6>Ajoint statement my 12 former officials says that the gaza polocy has put us in the risk and made the plans backfire</h6>
+<p>3Hrs ago - world</p>
+</div>
+</div>
+<div class='col-6'>
+<div>
+<img src='assets/images/beryl-hurricane.webp' width='700px'/>
+<h3>'Almost whole island homeless'in hurricane beryl's wake</h3>
+<h6>Having survived the night as Hurricane Beryl tore across her idyllic home of Union Island with ferocious force, Katrina Coy was taken aback by the extent of the devastation which lay before her.</h6>
+<p>3hrs ago-latin america</p>
+<h5>What happens when hurricane intensifies rapidly</h5>
+</div>
+</div>
+<div class='col-3'>
+<div>
+<h4>A Bugatti car, a first lady and the fake stories aimed at Americans</h4>
+<h6>Olena Zelenska, the first lady of Ukraine, allegedly bought a rare Bugatti Tourbillon sports car for 4.5m euros ($4.8m; £3.8m) while visiting Paris for D-Day commemorations in June.</h6>
+<p>4hrs ago - world</p>
+</div>
+<hr>
+<div>
+<h4>Analysis:UK stand for the Treshold of the landmark election</h4>
+<h6>It is six weeks to the day since Prime Minister Rishi Sunak got a drenching in Downing Street and this roadshow of persuasion began.</h6>
+<p>4hrs ago - politics</p>
+</div>
+<hr>
+<div>
+<h4>'I am not a church boy': RFK Jr responds to sex assault allegation</h4>
+<h6>Independent US presidential candidate Robert F Kennedy Jr has described a Vanity Fair story as a "lot of garbage", responding to several allegations including that he had sexually assaulted a former family babysitter.</h6>
+<p>4 hrs ago-US& canada</p>
+</div>
+<hr>
+<div>
+<h4>Child marriage ban welcomed in Sierra Leone</h4>
+<h6>Sierra Leone has brought in a new law banning child marriage with much fanfare at a ceremony organised by First Lady Fatima Bio in the capital, Freetown.</h6>
+<p>5 hrs ago - Africa</p>
+</div>
+<hr>
+</div>
+</div>
+<hr style='color:black;width:1350px;margin-left:65px;'>
+<h3 style='margin-left:75px;'><strong>Only from the BBC</strong></h3>
+<div class='d-flex' style='margin:25px 75px;gap:25px;'>
+<div>
+<img src='assets/images/vlog-1.webp' width='650px'/>
+<h4>Doctors dismissed these women as hysterical.Now they are fighiting back.</h4>
+<h6>There’s a memory, or more specifically a moment, that came to define Heidi Metcalf’s second birth.</h6>
+<p>15 hrs ago - Australia</p>
+</div>
+<div>
+<img src='assets/images/vlog-2.webp' width='650px'/>
+<h4>What does a world lookslike without airbnb?</h4>
+<h6>With Barcelona announcing a total ban on short-term rentals from the end of 2028, how will decisions to curb Airbnb and others in the world's major cities change how we travel?</h6>
+<p>18hrs ago-travel</p>
+</div>
+</div>
+<hr style='color:black;width:1350px;margin-left:65px;'>
+<div class='d-flex' style='margin:0px 25px;gap:25px;'>
+<div class='col-9'>
+<div class='d-flex'>
+<div>
+<h2>More than 120 killed in crush at India religious event</h2>
+<h5>The incident took place at a satsang (a Hindu religious event) in Hathras district in Uttar Pradesh state.</h5>
+<p>12 hrs ago- Asia</p>
+</div>
+<div>
+<img src='assets/images/accident.webp' width='600px'/>
+</div>
+</div>
+<hr>
+<div class='d-flex' style='gap:55px;'>
+<div>
+<img src='assets/images/taliban.webp' width='500px'/>
+<h4>Talks with the Taliban-no women allowed</h4>
+<h6>Two days of talks between the international community and the Afghan Taliban have been productive, diplomats say.</h6>
+<p>16 hrs ago - asia</p>
+</div>
+<hr>
+<div>
+<img src='assets/images/ukraine.webp' width='500px'/>
+<h4>Hungary's Orban urges ceasefire on Kyiv visit</h4>
+<h6>Viktor Orban arrived in Ukraine on Tuesday for an unannounced visit having just taken over as rotating president of the European Union.</h6>
+<p>8 hrs ago - europe</p>
+</div>
+<hr>
+</div>
+</div>
+<div class='col-3'>
+<div>
+<img src='assets/images/croc.webp' width='350px'/>
+<h4>Fears for Australian child missing after croc attack</h4>
+<h6>A desperate search is under way in northern Australia for a child feared to have been taken by a crocodile.</h6>
+<p>6 hrs ago - world</p>
+</div>
+<hr>
+<div>
+<h4>Indian state battling floods braces for more rain</h4>
+<h6>The north-eastern state has been inundated by flood waters for several days, affecting more than 600,000 people and killing at least 34.</h6>
+<p>21 hrs ago - asia</p>
+</div>
+<hr>
+<div>
+<h4>Pakistan will continue attacks in Afghanistan - minister</h4>
+<h6>Pakistan will continue to launch attacks against Afghanistan as part of a new military operation aimed at countering terrorism, the country's defence minister has told the BBC.</h6>
+<p>22 hrs ago-asia</p>
+</div>
+</div>
+</div>
+<hr style=''>
+<div class='padding:0px 45px'>
+<div class='d-flex' style='display:inline-block;overflow-x:auto;margin:25px 75px;gap:20px;background-color:black;color:white;padding:65px 120px;'>
+<div>
+<img src='assets/images/scroll-1.webp'/>
+<h5>Watch:Mount etna spits lava into the night sky</h5>
+<h6>Europes largest volcano roars as it releases lava into the air</h6>
+<p>52mi ago-europe</p><hr>
+</div>
+<div>
+<img src='assets/images/scroll-2.webp'/>
+<h5>My journey from needing a wheelchair to CrossFit Games</h5>
+<h6>A Highland mother has said her life has been transformed by CrossFit after grabbing a place in the finals of the sports annual adaptive games in Texas.</h6>
+<p>7 hrs ago-scotland</p><hr>
+</div>
+<div>
+<img src='assets/images/scroll-3.webp'/>
+<h5>Blazing fire force evacuations in california</h5>
+<h6>Authorities in northern California have ordered thousands of people to evacuate because of the Thompson and Toll fires, which have burned more than 3,000 acres.</h6>
+<p>6 hrs ago-US& canada</p><hr>
+</div>
+<div>
+<img src='assets/images/scroll-4.webp'/>
+<h5>'worst hurricane ever'-union island resident on beryl wrath</h5>
+<h6>Jeremie Tronet tells the BBC how Hurricane Beryl has destroyed everything he has built in 15 years."I lost my house, my businesses, everything,</h6>
+<p>20hrs ago - latin america</p><hr>
+</div>
+<div>
+<img src='assets/images/scroll-5.webp'/>
+<h5>A history of BBC election night in two minutes</h5>
+<h6>Election night TV programmes date back to the 1950s. As voters go to the polls, we look at how technology has changed our coverage over the years.</h6>
+<p>1 day ago - politics</p><hr>
+</div>
+<div>
+<img src='assets/images/scroll-6.webp'/>
+<h5>watch:families mourn victims of deadly india crush</h5>
+<h6>At least 121 people have died in a crush at a religious gathering in northern India, say officials. The incident, which took place in the Hathras district of Uttar Pradesh state, has left people in shock and trauma.</h6>
+<p>19 hrs ago-asia</p><hr>
+</div>
+</div>
+</div>
+<hr>
+<div class='d-flex' style='margin:45px 100px;'>
+<div style='margin-top:100px;'>
+<h2>how not to be a bad tourist-and still travel</h2>
+<p>A new book chronicles the power that travel has to transform places around the world, for better or worse – and asks us to consider that the label "tourist" can be a good one.</p>
+<button style='padding:5px 15px'>see more</button>
+</div>
+<div>
+<img src='assets/images/travel.webp' width='800px'/></div>
+</div>
+<hr>
+<div class='d-flex' style='margin:45px 100px;gap:25px;'>
+<div>
+<img src='assets/images/sun.webp' width='800px'/></div>
+<div style='margin-top:105px;'>
+<h2>How Solar Flares Spill Out Across the Solar System</h2>
+<p>The Sun is extremely active right now, blasting the Earth with the biggest solar storms in 20 years. This is what it is doing to the rest of the Solar System.</p>
+<button style='padding:5px 15px;'>see more</button>
+</div>
+</div>
+<hr>
+<div class='row' style='margin:25px 75px;'>
+<div class='col-3' >
+<h5 style='border-top:4px solid black;padding-top:12px;'>US And Canada News</h5>
+<h5>i am not leaving,bieden says,as pressure to dropout grows</h5>
+<h5>biden points to white house record after shaky debate</h5>
+<h5>Would having an AI boss be better than your current human one?</h5>
+<div>
+<img src='assets/images/scroll-3.webp'/>
+<h5>Blazing fire force evacuations in california</h5>
+<h6>Authorities in northern California have ordered thousands of people to evacuate because of the Thompson and Toll fires, which have burned more than 3,000 acres.</h6>
+</div>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>Global news</h5>
+<h5>body found in search for child missing in croc attack</h5>
+<h5>Hurricane beryl batters south coast of jamica</h5>
+<h5>watch:mount etna spits lava into the night sky</h5>
+<div>
+<img src='assets/images/lula.webp' width='320px'/>
+<h5>lula to steer clear the visiting of argentine leader</h5>
+<h6>The President of Brazil, Luiz Inácio Lula da Silva, has cancelled a visit to the southern state of Santa Catarina because his Argentine counterpart is there this weekend.</h6>
+</div>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>UK News</h5> 
+<h5>Islander really cross over postal vote delays</h5>
+<h5>lottery supports children's causes with $233,000</h5>
+<h5>can i take children or pets to a polling station</h5>
+<div>
+<img src='assets/images/polling.webp' width='320px'/>
+<h5>A simple guide to the 4 july UK generel Election</h5>
+<h6>Polling stations open on Thursday 4 July at 07:00 BST and close at 22:00. You can vote as long as you are in the queue by 22:00</h6>
+</div>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>Sport</h5>
+<h5>Cavendish broke tour de france stage record</h5>
+<h5>chasing the 'Ghost'-A superstar struck down by lightning</h5>
+<h5>Bell leads England to ODI clean sweep over New Zeland</h5>
+<div>
+<img src='assets/images/soccer.webp' width='320px'/>
+<h5>Guardiola? Klopp? Will USA stick or twist before 2026 World Cup?</h5>
+<h6>Jurgen Klopp, Pep Guardiola and other big name European coaches have been talked about as possibilities to manage the USA men's team in the future.</h6>
+</div>
+</div>
+</div>
+<div style='background-color:#3d3c3d;padding:25px 75px;margin:45px 0px;'>
+<div class='d-flex' style='color:white;background-color:black;'>
+<div>
+<img src='assets/images/recorder.webp' width='800px'/>
+</div>
+<div style='margin-top:120px;margin-left:15px;'>
+<h2>Listen to the oldest known recording of the human voice</h2>
+<h5>Thomas Edison is often credited with being the first person to record sound. But it was in fact a Frenchman named Edouard-Léon Scott de Martinville who invented sound recording via his phonautograph in 1857, </h5>
+<button style='padding:5px 10px;'>see more</button>
+</div>
+</div>
+</div>
+<div class='row' style='margin:25px 75px;'>
+<div class='col-3' >
+<h5 style='border-top:4px solid black;padding-top:12px;'>Business</h5>
+<h5>jeff bezos to sell another $5bn of amazon shares</h5>
+<h5>rare plants hidden in toys-and other traffecing tactics</h5>
+<h5>pay rise freese for kenyen MPs after public anger</h5>
+<div>
+<img src='assets/images/meta.webp' width='320px'/>
+<h5>Brazil blocks Meta from using social media posts to train AI</h5>
+<h6>Brazil has blocked Meta from using Brazilians' Instagram and Facebook posts to train its artificial intelligence (AI) models.</h6>
+</div>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>Innovation</h5>
+<h5>AI drives 48% increase in google emmisions</h5>
+<h5>The ocean drones tracking hurricanes</h5>
+<h5>why 'de-aging'older film stars is so unsetteling</h5>
+<div>
+<img src='assets/images/social.webp' width='320px'/>
+<h5>EU says Instagram’s paid ad-free option breaches rules</h5>
+<h6>Under the tech giant's new service in the EU, users must either consent to receiving personalised ads or pay €12.99 (£11) a month to remove them.</h6>
+</div>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>Culture</h5> 
+<h5>sperm donors says netflix series is misleading</h5>
+<h5>critics split on beverly hills cop sequel alex f</h5>
+<h5>revered screen writer robert towne dies at age 89</h5>
+<div>
+<img src='assets/images/art.webp' width='320px'/>
+<h5>Masterpeice found in plastic bag sells for $17.5 mil</h5>
+<h6>Rest On The Flight Into Egypt, painted by Venetian master Titian when he was aged just 20 in 1510, was sold by London auction house Christie's.</h6>
+</div>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>Travel</h5>
+<h5>A Paralympian's guide to the best of paris</h5>
+<h5>the italian village that belongs to no one</h5>
+<h5>what does a world without airbnb looklike?</h5>
+<div>
+<img src='assets/images/istanbul.webp' width='320px'/>
+<h5>A new way to see the worlds most visited city</h5>
+<h6>An extensive culture and heritage restoration campaign is revealing previously overlooked layers of the world's most visited city.</h6>
+</div>
+</div>
+</div>
+<div class='d-flex' style='margin:45px 100px;border-top:5px solid black;padding-top:25px;'>
+<div style='margin-top:110px'>
+<h2>chasing the 'ghost'- a superstar struck down by a lightening</h2>
+<h5>John White, 27, was found crouched and scorched under a tree, the rings on his fingers fused to the shaft of the club he was clutching.</h5>
+<button style='padding:5px 10px;'>see more</button>
+</div>
+<div>
+<img src='assets/images/jhon white.webp'width='800px'/>
+</div>
+</div>
+<div class='row' style='margin:25px 75px;border-top:5px solid black;'>
+<h4 style='padding:10px 0px;'>sign up for our news letter</h4>
+<div class='col-4'>
+<img src='assets/images/newsletter-1.webp'width='420px'/>
+<h5>The Essential list</h5>
+<p>The best of BBC.com, in your inbox every Tuesday and Friday.Discover handpicked features, videos, and can’t-miss news from our editors.</p>
+</div>
+<div class='col-4'>
+<img src='assets/images/newsletter-2.webp' width='420px'/>
+<h5>US Election Unspun</h5>
+<p>Explore the US election's global impact, every Wednesday from North America correspondent Anthony Zurcher.</p>
+</div>
+<div class='col-4'>
+<img src='assets/images/newsletter-3.webp' width='420px'/>
+<h5>Medal Moments</h5>
+<p>Your global guide to the Paris Olympics, daily to your inbox.Never miss a story, from key highlights to the remarkable journeys behind them</p>
+</div>
+</div>
+<div class='row' style='margin:25px 75px;margin-bottom:150px;'>
+<div class='col-3' >
+<h5 style='border-top:4px solid black;padding-top:12px;'>Earth</h5>
+<h5>Hurricane beryl heads towards mexico and US </h5>
+<h5>Nearly 30,000 evacuated from the clifornia fires</h5>
+<h5>whta is patchwork kimono can teach us about sustainability</h5>
+<div>
+<img src='assets/images/earth.webp' width='320px'/>
+<h5>How record breaking hurricane beryl is a sign of warming world</h5>
+<h6>Hurricane Beryl is wreaking havoc in parts of the Caribbean – and putting the role of climate change under the spotlight.</h6>
+</div>
+<hr>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>science and health</h5>
+<h5>Lucy Letby: Courtroom drama, a failed appeal, and battles over the truth</h5>
+<h5>Huge firework displays will mark 4 July in the US, but the nation's air quality will suffer</h5>
+<h5>'I'm as happy as I've been in my life,' says aid worker Simon Boas as he faces death</h5>
+<div>
+<img src='assets/images/burger.webp' width='320px'/>
+<h5>Bird flu hits McDonald's Australia breakfast hours</h5>
+<h6>The fast food giant has temporarily shortened the hours of its breakfast service in the country by 90 minutes due to an egg shortage caused by a bird flu outbreak.</h6>
+</div>
+<hr>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>World's  table</h5> 
+<h5>the wild cermonies of the turkish meatballs</h5>
+<h5>the chicken recipie is so good its origin is fought in court</h5>
+<h5>what will we eat on the moon</h5>
+<div>
+<img src='assets/images/beef.webp' width='320px'/>
+<h5>Portugal's take on beef bourguignon</h5>
+<h6>Akin to France's heartier, spicier, richer boeuf bourguignon, "alcatra" is synonymous with a single island in the remote Azores archipelago.</h6>
+</div>
+<hr>
+</div>
+<div class='col-3'>
+<h5 style='border-top:4px solid black;padding-top:12px;'>the specalist</h5>
+<h5>A Paralympian's guide to the best of paris</h5>
+<h5>A pro surfer guide to LA's beaches</h5>
+<h5>A rome based food expert insider's pick</h5>
+<div>
+<img src='assets/images/barcelona.webp' width='320px'/>
+<h5>An F1 driver-turned-DJ's guide to barcelona</h5>
+<h6>Jaime Alguersuari was once the youngest-ever F1 driver; now he's a DJ in his hometown of Barcelona. Here are his Barcelona picks, from tapas at Bar Cañete to nights out in Eixample.</h6>
+</div>
+<hr>
+</div>
+</div>
+<hr>
+<div style='margin-left:75px;'>
+<img src='assets/images/title.png'/><br>
+<ul style='list-style-type:none;display:inline-flex;gap:25px;'>
+<li><b><u>Home</u></b></li>
+<li><b>News</b></li>
+<li><b>Sport</b></li>
+<li><b>Business</b></li>
+<li><b>Innovation</b></li>
+<li><b>Cultre</b></li>
+<li><b>Travel</b></li>
+<li><b>Earth</b></li>
+<li><b>Vedio</b></li>
+<li><b>live</b></li>
+<li><b>Audio</b></li>
+<li><b>Weather</b></li>
+<li><b>BBC shop</b></li>
+</ul>
+<div class="dropdown" >
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" >BBC In Other Languages
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    <li>Spanish</li>
+    <li>german</li>
+    <li>Hindi</li>
+    <li>chaineese</li>
+    <li>korean</li>
+    <li>arabic</li>
+    <li><a href="#">viatnameese</li>
+  </ul>
+</div>
+<div class='d-flex' style='padding-top:25px;'>
+<div><h5>Follow BBC on:</h5></div>
+<div>
+<ul style='list-style-type:none;display:inline-flex;gap:25px;'>
+<li><img src='assets/images/twitter-logo-svgrepo-com.svg' width='35px'/></li>
+<li><img src='assets/images/instagram-167-svgrepo-com (1).svg' width='35px'/></li>
+<li><img src='assets/images/brand-fb-sq-svgrepo-com.svg' width='35px'/></li>
+<li><img src='assets/images/tiktok-svgrepo-com.svg' width='35px'/></li>
+<li><img src='assets/images/youtube-168-svgrepo-com.svg' width='35px'/></li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>
